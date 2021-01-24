@@ -16,7 +16,7 @@ var player_img;
 function preload(){
   back_img = loadImage("jungle.jpg");
   player_img = loadImage("basket2.png");
-  fruit1_img = loadImage("apple2.png");
+  fruit1_img = loadImage("apple2 - Copy.png");
   fruit2_img = loadImage("banana2.png");
   fruit3_img = loadImage("melon2.png");
   fruit4_img = loadImage("orange2.png");
